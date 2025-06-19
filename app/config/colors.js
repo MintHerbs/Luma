@@ -2,39 +2,41 @@ export default {
   /* ------------------------------------------------------------------
      Brand colours
   ------------------------------------------------------------------*/
-  primary:           '#EFD57E',  // gold  – main brand accent
-  onPrimary:         '#170F04',  // readable text/icon on primary
-  primaryContainer:  '#FFF1B8',  // lighter shade for elevated surfaces
-  onPrimaryContainer:'#2C2200',
-  black: '#000',
+  primary:            '#EFD57E',  // gold – main brand accent
+  onPrimary:          '#322B0B',  // readable text/icon on primary
+  primaryContainer:   '#FFF5CC',  // lighter shade for elevated surfaces
+  onPrimaryContainer: '#53481A',
 
-  secondary:           '#7E98EF',  // periwinkle – secondary accent
-  onSecondary:         '#FFFFFF',
-  secondaryContainer:  '#D9E1FF',
-  onSecondaryContainer:'#0D1B3C',
+  secondary:          '#C7BFA1',  // neutral beige – secondary accent
+  onSecondary:        '#322E24',
+  secondaryContainer: '#EDE7D9',
+  onSecondaryContainer:'#4A4437',
 
   /* ------------------------------------------------------------------
      Additional accent (tertiary) – optional future use
      (e.g. FAB, progress, charts)
   ------------------------------------------------------------------*/
-  tertiary:           '#FFB4A6',  // soft coral
-  onTertiary:         '#442925',
-  tertiaryContainer:  '#FFDAD1',
-  onTertiaryContainer:'#2C1511',
+  tertiary:           '#D7C290',  // complementary soft gold
+  onTertiary:         '#44391E',
+  tertiaryContainer:  '#F4E9CB',
+  onTertiaryContainer:'#5C4F2D',
 
   /* ------------------------------------------------------------------
      Neutrals & backgrounds
   ------------------------------------------------------------------*/
-  background:         '#FDFCF9',  // app background (light theme)
-  onBackground:       '#1C1B1F',
+  background:         '#1A1815',  // dark neutral background (matches logo background)
+  onBackground:       '#E8E5DD',
 
-  surface:            '#FDFCF9',  // regular cards/surfaces
-  onSurface:          '#1C1B1F',
+  surface:            '#25221F',  // slightly elevated surfaces
+  onSurface:          '#E8E5DD',
 
-  surfaceVariant:     '#E7E0EC',  // variant surface for lists, chips
-  onSurfaceVariant:   '#49454F',
+  surfaceVariant:     '#37332E',  // variant surface for lists, chips
+  onSurfaceVariant:   '#CBC6BC',
 
-  outline:            '#79747E',  // borders / dividers
+  outline:            '#8C857B',  // borders / dividers
+
+  black: '#000',
+  white: '#fff',
 
   /* ------------------------------------------------------------------
      Semantic / error
