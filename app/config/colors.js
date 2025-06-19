@@ -12,6 +12,10 @@ export default {
   secondaryContainer: '#EDE7D9',
   onSecondaryContainer:'#4A4437',
 
+
+  textPrimary: '#1C1B1F',            // main text color, high emphasis
+  textSecondary: '#49454F',          // medium emphasis text
+  textTertiary: '#79747E',           // low emphasis, placeholder text
   /* ------------------------------------------------------------------
      Additional accent (tertiary) – optional future use
      (e.g. FAB, progress, charts)
