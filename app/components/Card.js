@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
     height: 200,
   },
   subTitle: {
-    color: colors.textPrimary,
+    color: colors.secondary,
     fontWeight: "bold",
   },
   title: {

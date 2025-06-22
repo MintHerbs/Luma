@@ -9,15 +9,15 @@ import ListItemDeleteAction from "../components/ListItemDeleteAction";
 const initialMessages = [
   {
     id: 1,
-    title: "T1",
-    description: "D1",
+    title: "Pln lokal",
+    description: "kav pln?",
     image: require("../assets/person.jpg"),
   },
   {
     id: 2,
-    title: "T2",
-    description: "D2",
-    image: require("../assets/person.jpg"),
+    title: "Bibit lokal",
+    description: "mo sous toi 1 kut pln?",
+    image: require("../assets/bibit.png"),
   },
 ];
 
@@ -54,7 +54,7 @@ function MessagesScreen(props) {
               id: 2,
               title: "T2",
               description: "D2",
-              image: require("../assets/mosh.jpg"),
+              image: require("../assets/person.jpg"),
             },
           ]);
         }}
