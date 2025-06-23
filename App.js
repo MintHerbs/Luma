@@ -1,6 +1,9 @@
 import React from 'react';
-import MessagesScreen from './app/screens/MessagesScreen';  // note the exact capitals
+import AccountScreen from './app/screens/AccountScreen';
+import WelcomeScreen from './app/screens/WelcomeScreen';
+
 
 export default function App() {
-  return <MessagesScreen />;
+  return <WelcomeScreen />; // Change to <AccountScreen /> to view the account screen
 }
+

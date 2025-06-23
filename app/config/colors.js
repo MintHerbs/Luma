@@ -3,8 +3,8 @@
 // Central palette of every colour you’re using in Luma.
 // -----------------------------------------------------------------------------
 export default {
-  primary:           "#EFD57E",  // your gold for Login button, “LUMA” text
-  secondary:         "#7E98EF",  // your blue for Register button
+  primary:           "#E8D795",  // your gold for Login button, “LUMA” text
+  secondary:         "#C4BEA5",  // your blue for Register button
 
   black:             "#000",     // screen/container background
   white:             "#fff",     // button text
@@ -12,6 +12,7 @@ export default {
   medium:            "#6e6969",  // text on light surfaces
 
   background:        "#FDFCF9",  // default app background (light surfaces)
+  brown:             "#150F06",
   surface:           "#FDFCF9",  // same as background by default
   surfaceVariant:    "#E7E0EC",  // variant surfaces (cards, list items)
 
